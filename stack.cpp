@@ -11,7 +11,7 @@ void display();
 
 int main() {
 	
-	
+	 
     int choice;
     do{
     printf("-----------Stack----------");
