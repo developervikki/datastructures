@@ -6,7 +6,7 @@ int stack[MAXSIZE],top=-1;
 
 // Function prototypes
 void push();
-void pop();
+void pop(); 
 void display();
 
 int main() {
