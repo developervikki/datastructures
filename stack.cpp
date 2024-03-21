@@ -3,7 +3,7 @@
 
 #define MAXSIZE 10
 int stack[MAXSIZE],top=-1;
-
+ 
 // Function prototypes
 void push();
 void pop(); 
