@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include<conio.h>
 int binarySearch(int arr[], int size, int target) {
-    int left = 0;
+    int left = 0; 
     int right = size - 1;
     
     while (left <= right) {
