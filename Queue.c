@@ -2,7 +2,7 @@
 #define MAXSIZE 10
 
 int queue[MAXSIZE], rear=-1, front=0; 
-void insert();
+void insert(); 
 void delete1(); 
 void display();
 
