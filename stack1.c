@@ -6,7 +6,7 @@ void push();
 void pop();
 void display();
 main(){
-	int choice;
+	int choice; 
 	do{
 	
 	printf("\n------------Stack Menu----------");
