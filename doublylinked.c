@@ -3,7 +3,7 @@
 
 struct node {
     int data;
-    struct node *ladd, *radd;
+    struct node *ladd, *radd; 
 };
 
 struct node *start = NULL, *new1, *temp;
