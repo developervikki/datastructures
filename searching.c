@@ -8,7 +8,7 @@ struct node {
  
 struct node *start = NULL, *new1, *temp;
 
-void create();
+void create(); 
 void display();
 void insert_first();
 void insert_middle();
