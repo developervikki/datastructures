@@ -18,7 +18,7 @@ int main(){
     while(choice!=4);
     return 0;
 }
-void insert(){
+void insert(){ 
 	if((rear+1)%MAXSIZE==front)
 	{
 		printf("\nQueue is Overflow");
