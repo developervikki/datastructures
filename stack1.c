@@ -5,7 +5,7 @@ int stack[MAXSIZE], top=-1;
 void push();
 void pop();
 void display();
-main(){
+main(){ 
 	int choice; 
 	do{
 	
