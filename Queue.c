@@ -16,7 +16,7 @@ int main(){
         scanf("%d",&choice);
         switch(choice){
             case 1: insert(); break;
-            case 2: delete1(); break;
+            case 2: delete1(); break; 
             case 3: display(); break;
         }
     }
