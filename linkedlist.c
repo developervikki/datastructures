@@ -9,7 +9,7 @@ struct node {
  
 struct node *start=NULL,*temp;
 
-void create() {
+void create() { 
     char ch;
     int n;
     struct node *new1;
