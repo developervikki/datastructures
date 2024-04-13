@@ -6,7 +6,7 @@ struct node {
     struct node *add;
 };
  
-struct node *start = NULL, *new1, *temp;
+struct node *start = NULL, *new1, *temp; 
 
 void create(); 
 void display();
