@@ -20,7 +20,7 @@ void searching();
 
 void main() {
     int choice;
-    do {
+    do { 
         printf("\n------------------Linked list-------------");
         printf("\n1.Create \n2.Display \n3.Insert First \n4.Insert Middle \n5.Insert Last \n6.Delete first \n7.Delete middle \n8.Delete last \n9. Search \10.Exit");
         printf("\n------------------------------------------");
