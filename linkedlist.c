@@ -19,7 +19,7 @@ void create() {
     start = (struct node *)malloc(sizeof(struct node));
     start->data = n;
     start->next = NULL;
-    temp = start;
+    temp = start; 
     printf("Want to continue? (y/n): ");
     ch = getch();
     while(ch == 'y' || ch == 'Y') {
