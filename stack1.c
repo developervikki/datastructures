@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 #define MAXSIZE 10
-int stack[MAXSIZE], top=-1;
+int stack[MAXSIZE], top=-1; 
 void push();
 void pop();
 void display();
