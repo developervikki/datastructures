@@ -5,7 +5,7 @@ struct node {
     int data;
     struct node *add;
 };
-
+ 
 struct node *start = NULL, *new1, *temp;
 
 void create();
