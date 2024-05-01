@@ -9,7 +9,7 @@ struct node {
 struct node *start = NULL, *new1, *temp;
 
 void create();
-void display();
+void display(); 
 void insert_first();
 void insert_last();
 void delete_first();
