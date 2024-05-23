@@ -6,7 +6,7 @@ int main() {
     int sum = 0;
 
     for(i = 0; i < n; i++) {
-        sum += arr[i];
+        sum += arr[i]; 
     }
 
     printf("The sum of all elements in the array is %d\n", sum);
