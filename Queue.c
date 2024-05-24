@@ -7,7 +7,7 @@ void delete1();
 void display(); 
  
 int main(){
-    int choice;
+    int choice; 
     do{
         printf("\n------------Queue Menu----------");
         printf("\n 1. Insert \n 2. Delete \n 3. Display \n 4. Exit");
