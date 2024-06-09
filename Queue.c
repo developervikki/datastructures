@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define MAXSIZE 10  
+#define MAXSIZE 10   
    
 int queue[MAXSIZE], rear=-1, front=0; 
 void insert(); 
