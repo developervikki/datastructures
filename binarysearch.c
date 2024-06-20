@@ -1,4 +1,4 @@
-#include <stdio.h>  
+#include <stdio.h>   
 #include<conio.h>
 int binarySearch(int arr[], int size, int target) {
     int left = 0; 
