@@ -1,7 +1,7 @@
 #include<stdio.h>
 #define MAXSIZE 10    
 int cq(MAXSIZE), rear=-1, front=-1;  
-int main(){ 
+int main(){  
     int choice; 
     do{
         printf("\n------------Queue Menu----------");
